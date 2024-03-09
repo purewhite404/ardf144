@@ -405,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ardf144.kicad_pro",
+    "filename": "ardf144_2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -439,8 +439,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
-      "specctra_dsn": "ardf144.dsn",
+      "netlist": "./",
+      "specctra_dsn": "",
       "step": "",
       "vrml": ""
     },
